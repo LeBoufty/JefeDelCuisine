@@ -1,0 +1,345 @@
+
+{
+  "smashCharacters": [
+    {
+      "name": "Mario",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/mario/main.png"
+    },
+    {
+      "name": "Donkey Kong",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/donkey_kong/main.png"
+    },
+    {
+      "name": "Link",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/link/main.png"
+    },
+    {
+      "name": "Samus",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/samus/main.png"
+    },
+    {
+      "name": "Dark Samus",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/dark_samus/main.png"
+    },
+    {
+      "name": "Yoshi",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/yoshi/main.png"
+    },
+    {
+      "name": "Kirby",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/kirby/main.png"
+    },
+    {
+      "name": "Fox",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/fox/main.png"
+    },
+    {
+      "name": "Pikachu",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/pikachu/main.png"
+    },
+    {
+      "name": "Luigi",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/luigi/main.png"
+    },
+    {
+      "name": "Ness",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/ness/main.png"
+    },
+    {
+      "name": "Captain Falcon",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/captain_falcon/main.png"
+    },
+    {
+      "name": "Jigglypuff",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/jigglypuff/main.png"
+    },
+    {
+      "name": "Peach",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/peach/main.png"
+    },
+    {
+      "name": "Daisy",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/daisy/main.png"
+    },
+    {
+      "name": "Bowser",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/bowser/main.png"
+    },
+    {
+      "name": "Ice Climbers",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/ice_climbers/main.png"
+    },
+    {
+      "name": "Sheik",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/sheik/main.png"
+    },
+    {
+      "name": "Zelda",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/zelda/main.png"
+    },
+    {
+      "name": "Dr. Mario",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/dr_mario/main.png"
+    },
+    {
+      "name": "Pichu",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/pichu/main.png"
+    },
+    {
+      "name": "Falco",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/falco/main.png"
+    },
+    {
+      "name": "Marth",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/marth/main.png"
+    },
+    {
+      "name": "Lucina",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/lucina/main.png"
+    },
+    {
+      "name": "Young Link",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/young_link/main.png"
+    },
+    {
+      "name": "Ganondorf",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/ganondorf/main.png"
+    },
+    {
+      "name": "Mewtwo",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/mewtwo/main.png"
+    },
+    {
+      "name": "Roy",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/roy/main.png"
+    },
+    {
+      "name": "Chrom",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/chrom/main.png"
+    },
+    {
+      "name": "Mr. Game & Watch",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/mr_game_and_watch/main.png"
+    },
+    {
+      "name": "Meta Knight",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/meta_knight/main.png"
+    },
+    {
+      "name": "Pit",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/pit/main.png"
+    },
+    {
+      "name": "Dark Pit",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/dark_pit/main.png"
+    },
+    {
+      "name": "Zero Suit Samus",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/zero_suit_samus/main.png"
+    },
+    {
+      "name": "Wario",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/wario/main.png"
+    },
+    {
+      "name": "Snake",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/snake/main.png"
+    },
+    {
+      "name": "Ike",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/ike/main.png"
+    },
+    {
+      "name": "Pokemon Trainer",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/pokemon_trainer/main.png"
+    },
+    {
+      "name": "Diddy Kong",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/diddy_kong/main.png"
+    },
+    {
+      "name": "Lucas",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/lucas/main.png"
+    },
+    {
+      "name": "Sonic",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/sonic/main.png"
+    },
+    {
+      "name": "King Dedede",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/king_dedede/main.png"
+    },
+    {
+      "name": "Olimar",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/olimar/main.png"
+    },
+    {
+      "name": "Lucario",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/lucario/main.png"
+    },
+    {
+      "name": "R.O.B.",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/rob/main.png"
+    },
+    {
+      "name": "Toon Link",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/toon_link/main.png"
+    },
+    {
+      "name": "Wolf",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/wolf/main.png"
+    },
+    {
+      "name": "Villager",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/villager/main.png"
+    },
+    {
+      "name": "Mega Man",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/mega_man/main.png"
+    },
+    {
+      "name": "Wii Fit Trainer",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/wii_fit_trainer/main.png"
+    },
+    {
+      "name": "Rosalina & Luma",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/rosalina_and_luma/main.png"
+    },
+    {
+      "name": "Little Mac",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/little_mac/main.png"
+    },
+    {
+      "name": "Greninja",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/greninja/main.png"
+    },
+    {
+      "name": "Mii Brawler",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/mii_brawler/main.png"
+    },
+    {
+      "name": "Mii Swordfighter",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/mii_swordfighter/main.png"
+    },
+    {
+      "name": "Mii Gunner",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/mii_gunner/main.png"
+    },
+    {
+      "name": "Palutena",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/palutena/main.png"
+    },
+    {
+      "name": "Pac-Man",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/pac-man/main.png"
+    },
+    {
+      "name": "Robin",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/robin/main.png"
+    },
+    {
+      "name": "Shulk",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/shulk/main.png"
+    },
+    {
+      "name": "Bowser Jr.",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/bowser_jr/main.png"
+    },
+    {
+      "name": "Duck Hunt",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/duck_hunt/main.png"
+    },
+    {
+      "name": "Ryu",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/ryu/main.png"
+    },
+    {
+      "name": "Ken",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/ken/main.png"
+    },
+    {
+      "name": "Cloud",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/cloud/main.png"
+    },
+    {
+      "name": "Corrin",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/corrin/main.png"
+    },
+    {
+      "name": "Bayonetta",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/bayonetta/main.png"
+    },
+    {
+      "name": "Inkling",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/inkling/main.png"
+    },
+    {
+      "name": "Ridley",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/ridley/main.png"
+    },
+    {
+      "name": "Simon",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/simon/main.png"
+    },
+    {
+      "name": "Richter",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/richter/main.png"
+    },
+    {
+      "name": "King K. Rool",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/king_k_rool/main.png"
+    },
+    {
+      "name": "Isabelle",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/isabelle/main.png"
+    },
+    {
+      "name": "Incineroar",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/incineroar/main.png"
+    },
+    {
+      "name": "Piranha Plant",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/piranha_plant/main.png"
+    },
+    {
+      "name": "Joker",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/joker/main.png"
+    },
+    {
+      "name": "Hero",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/hero/main.png"
+    },
+    {
+      "name": "Banjo & Kazooie",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/banjo_and_kazooie/main.png"
+    },
+    {
+      "name": "Terry",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/terry/main.png"
+    },
+    {
+      "name": "Byleth",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/byleth/main.png"
+    },
+    {
+      "name": "Min Min",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/min_min/main.png"
+    },
+    {
+      "name": "Steve",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/steve/main.png"
+    },
+    {
+      "name": "Sephiroth",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/sephiroth/main.png"
+    },
+    {
+      "name": "Pyra/Mythra",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/pyra/main.png"
+    },
+    {
+      "name": "Kazuya",
+      "icon": "https://www.smashbros.com/assets_v2/img/fighter/kazuya/main.png"
+    }
+  ]
+}
